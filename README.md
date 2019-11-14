@@ -1,5 +1,5 @@
 # GoodByeWorld
 Python
-Print('Hi there')
+Print('Hi there') /n
 PPrint ('Goodbye')
 You are pretty
